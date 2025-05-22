@@ -50,15 +50,51 @@
 
 ### Задание 2
 
+![alt text](https://github.com/DmitriyPetrovskiy23/git-hw/blob/main/img/2.1.png?raw=true)
+
+![alt text](https://github.com/DmitriyPetrovskiy23/git-hw/blob/main/img/2.2.png?raw=true)
+
+![alt text](https://github.com/DmitriyPetrovskiy23/git-hw/blob/main/img/2.3.png?raw=true)
+
+![alt text](https://github.com/DmitriyPetrovskiy23/git-hw/blob/main/img/2.4.png?raw=true)
+
+![alt text](https://github.com/DmitriyPetrovskiy23/git-hw/blob/main/img/2.5.png?raw=true)
 
 ---
 
 ### Задание 3
 
+![alt text](https://github.com/DmitriyPetrovskiy23/git-hw/blob/main/img/3.1.png?raw=true)
+
+![alt text](https://github.com/DmitriyPetrovskiy23/git-hw/blob/main/img/3.2.png?raw=true)
+
+![alt text](https://github.com/DmitriyPetrovskiy23/git-hw/blob/main/img/3.3.png?raw=true)
+
+![alt text](https://github.com/DmitriyPetrovskiy23/git-hw/blob/main/img/3.4.png?raw=true)
+
+![alt text](https://github.com/DmitriyPetrovskiy23/git-hw/blob/main/img/3.5.png?raw=true)
+
+![alt text](https://github.com/DmitriyPetrovskiy23/git-hw/blob/main/img/3.6.png?raw=true)
+
+![alt text](https://github.com/DmitriyPetrovskiy23/git-hw/blob/main/img/3.7.png?raw=true)
+
+![alt text](https://github.com/DmitriyPetrovskiy23/git-hw/blob/main/img/3.8.png?raw=true)
+
+[Network graph](https://github.com/DmitriyPetrovskiy23/git_hw_1ex/network)
 
 ---
 
 ### Задание 4
 
+![alt text](https://github.com/DmitriyPetrovskiy23/git-hw/blob/main/img/4.1.png?raw=true)
 
+![alt text](https://github.com/DmitriyPetrovskiy23/git-hw/blob/main/img/4.2.png?raw=true)
+
+![alt text](https://github.com/DmitriyPetrovskiy23/git-hw/blob/main/img/4.3.png?raw=true)
+
+![alt text](https://github.com/DmitriyPetrovskiy23/git-hw/blob/main/img/4.4.png?raw=true)
+
+![alt text](https://github.com/DmitriyPetrovskiy23/git-hw/blob/main/img/4.5.png?raw=true)
+
+[Network graph](https://github.com/DmitriyPetrovskiy23/git_hw_1ex/network)
 ---
