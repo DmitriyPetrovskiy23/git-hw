@@ -26,6 +26,26 @@
 
 ![alt text](https://github.com/DmitriyPetrovskiy23/git-hw/blob/main/img/1.1.png?raw=true)
 
+![alt text](https://github.com/DmitriyPetrovskiy23/git-hw/blob/main/img/1.2.png?raw=true)
+
+![alt text](https://github.com/DmitriyPetrovskiy23/git-hw/blob/main/img/1.3.png?raw=true)
+
+![alt text](https://github.com/DmitriyPetrovskiy23/git-hw/blob/main/img/1.4.png?raw=true)
+
+![alt text](https://github.com/DmitriyPetrovskiy23/git-hw/blob/main/img/1.5.png?raw=true)
+
+![alt text](https://github.com/DmitriyPetrovskiy23/git-hw/blob/main/img/1.6.png?raw=true)
+
+![alt text](https://github.com/DmitriyPetrovskiy23/git-hw/blob/main/img/1.7.png?raw=true)
+
+![alt text](https://github.com/DmitriyPetrovskiy23/git-hw/blob/main/img/1.8.png?raw=true)
+
+![alt text](https://github.com/DmitriyPetrovskiy23/git-hw/blob/main/img/1.9.png?raw=true)
+
+![alt text](https://github.com/DmitriyPetrovskiy23/git-hw/blob/main/img/1.10.png?raw=true)
+
+![alt text](https://github.com/DmitriyPetrovskiy23/git-hw/blob/main/img/1.11.png?raw=true)
+
 ---
 
 ### Задание 2
