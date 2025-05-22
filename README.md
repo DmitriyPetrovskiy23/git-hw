@@ -24,6 +24,7 @@
 
 ### Задание 1
 
+![alt text](https://github.com/DmitriyPetrovskiy23/git-hw/blob/main/img/1.1.png?raw=true)
 
 ---
 
